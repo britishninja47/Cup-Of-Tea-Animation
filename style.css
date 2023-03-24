@@ -82,7 +82,7 @@ background: linear-gradient(to right,#1176b4,#991b1b);
   height: 200px;
   background: linear-gradient(to right, #f9f9f9, #e7e7e7);
   border-radius: 50%;
-  box-shadow: 0 35px 35px rgb(0,0,0,0.4);
+  box-shadow: 0 35px 35px rgb(0,0,0,0.3);
 }
 .plate::before
 {
@@ -103,7 +103,7 @@ background: linear-gradient(to right,#1176b4,#991b1b);
   left: 30px;
   right: 30px;
   bottom: 30px;
-  background: radial-gradient(rgba(0,0,0,0.2) 30%, transparent,
+  background: radial-gradient(rgba(0,0,0,0.3) 30%, transparent,
   transparent);
   border-radius: 50%;
 }
