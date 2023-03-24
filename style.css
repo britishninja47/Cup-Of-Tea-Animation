@@ -154,3 +154,9 @@ background: linear-gradient(to right,#1176b4,#991b1b);
 
   }
 }
+.Bottom-border
+{
+  position: relative;
+  top: 300px;
+  bottom: -200;
+}
